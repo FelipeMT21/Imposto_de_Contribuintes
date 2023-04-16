@@ -20,7 +20,7 @@ Esta é uma solução para o Exercício de Fixação do curso Java Orientado a O
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FelipeMT21/Imposto_de_Contribuintes)
+- Solution URL: [Add solution URL here](https://staruml.io/)
 
 ## Meu processo
 

@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução de componente de código QR
+# Udemy - Java Completo 2023 - Solução Exercício de Fixação
 
 Esta é uma solução para o Exercício de Fixação do curso Java Orientado a Ojeto.  
 

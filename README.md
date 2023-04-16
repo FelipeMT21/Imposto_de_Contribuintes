@@ -20,7 +20,7 @@ Esta é uma solução para o Exercício de Fixação do curso Java Orientado a O
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://staruml.io/)
+- Solution URL: [Add solution URL here](https://github.com/FelipeMT21/Imposto_de_Contribuintes)
 
 ## Meu processo
 
@@ -36,7 +36,7 @@ Esta é uma solução para o Exercício de Fixação do curso Java Orientado a O
 
 ### Recursos úteis
 
-- [StarUML](https://developer.mozilla.org/pt-BR/) - Foi de grande importância a criação de um diagrama para me basear durante o processo de desenvolvimento do desafio, pois isso permitiu que eu visualizasse com mais clareza a estrutura do código e pudesse trabalhar de forma mais coesa e organizada.
+- [StarUML](https://staruml.io/) - Foi de grande importância a criação de um diagrama para me basear durante o processo de desenvolvimento do desafio, pois isso permitiu que eu visualizasse com mais clareza a estrutura do código e pudesse trabalhar de forma mais coesa e organizada.
 
 ## Autor
 
